@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Osmanileri/Osmanileri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Osman%20İleri&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20&descAlignY=55&descAlign=50" width="100%"/>
 
-Here are some ideas to get you started:
+### 📱 Mobile Developer | 🎮 Game Enthusiast | 💻 C++ Coder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+I focus on creating addictive mobile experiences and clean code. Currently building **Echo Shift** and exploring the depths of **React Native**.
+
+<br>
+
+## ⚡ Skills
+
+<img src="https://skillicons.dev/icons?i=react,cpp,js,html,css,git,vscode,figma&perline=8" />
+
+<br>
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🔭 Current Projects</h3>
+      <ul align="left">
+        <li><strong>Echo Shift:</strong> Minimalist arcade game.</li>
+        <li><strong>Nexus Defender:</strong> Roguelite survivor concept.</li>
+        <li><strong>Graduation Project:</strong> Professional Meal Planner App.</li>
+      </ul>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎯 Goals for 2026</h3>
+      <ul align="left">
+        <li>Software Engineering Internship (EU/TR).</li>
+        <li>Mastering Algorithm Time Complexity.</li>
+        <li>Publishing my first mobile game.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Osmanileri&theme=dark&hide_border=true" />
+
+<br>
+
+[LinkedIn Profilim](https://www.linkedin.com/in/osman-ileri-944682299/)
+
+</div>
